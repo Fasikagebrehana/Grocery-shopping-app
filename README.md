@@ -1,5 +1,7 @@
 Grocery Shopping App
 Overview
+
+
 The Grocery Shopping App is a modern, user-friendly application designed to simplify the grocery shopping experience. This app allows users to browse through a wide range of grocery items, view detailed product information, add items to their cart, and make purchases seamlessly. Built using Flutter, the app features a clean and intuitive interface, making it easy for users to shop for their groceries efficiently.
 
 Features
