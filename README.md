@@ -64,12 +64,15 @@ git commit -m "Add your message here"
 Push to the Branch:
 
 bash
-Copy code
+
 git push origin feature/your-feature
 
+![photo_2024-08-27_18-47-24 (2)](https://github.com/user-attachments/assets/5829dd01-6468-4812-bbf9-8ca6edc637a7)
 
 images
 
 ![Grocery App Screenshot](assets/images/photo_2024-08-27_18-47-24%20(2).jpg)
 ![Grocery App Screenshot](assets/images/photo_2024-08-27_18-47-24.jpg)
 ![Grocery App Screenshot](assets/images/photo_2024-08-27_18-47-25.jpg)
+![photo_2024-08-27_18-47-25](https://github.com/user-attachments/assets/da86dc24-89ae-4e9c-9748-a3162da45c74)
+![photo_2024-08-27_18-47-24](https://github.com/user-attachments/assets/8773d0db-e58f-4980-bb55-f1900bb2b180)
